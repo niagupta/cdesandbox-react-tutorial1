@@ -1,2 +1,2 @@
-# cdesandbox-react-tutorial1
+# cdesandbox-react-tutorial
 Created with CodeSandbox
